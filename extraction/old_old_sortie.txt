@@ -1,0 +1,25 @@
+README.md
+ex00.sh
+ex01.sh
+ex02.sh
+ex03.sh
+ex04.sh
+ex05.sh
+ex06.sh
+ex07.sh
+ex08.sh
+ex09.sh
+ex10.sh
+ex11.sh
+ex12.sh
+ex13.sh
+ex14.sh
+ex15.sh
+ex16.sh
+ex17.sh
+ex18.sh
+ex19.sh
+ex20.sh
+mon_dossier
+sortie.txt
+Ceci est une redirection
